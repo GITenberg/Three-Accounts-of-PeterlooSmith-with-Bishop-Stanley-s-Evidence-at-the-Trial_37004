@@ -1,0 +1,49 @@
+_repo: Three-Accounts-of-PeterlooSmith-with-Bishop-Stanley-s-Evidence-at-the-Trial_37004
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hylton, William George Hylton Jolliffe, Sir, 1st Baron
+    alias: Jolliffe, William
+    birthdate: 1800
+    deathdate: 1876
+    gutenberg_agent_id: '38587'
+    url: http://www.gutenberg.org/2009/agents/38587
+  - agent_name: Smith, J. B. (John Benjamin)
+    alias: Smith, John Benjamin
+    birthdate: 1794
+    deathdate: 1879
+    gutenberg_agent_id: '38588'
+    url: http://www.gutenberg.org/2009/agents/38588
+  - agent_name: Stanley, Edward
+    alias: Lord Bishop of Norwich (Edward Stanley)
+    birthdate: 1779
+    deathdate: 1849
+    gutenberg_agent_id: '34685'
+    url: http://www.gutenberg.org/2009/agents/34685
+  editor:
+    agent_name: Bruton, F. A. (Francis Archibald)
+    alias: Bruton, Francis Archibald
+    birthdate: 1860
+    deathdate: 1929
+    gutenberg_agent_id: '38589'
+    url: http://www.gutenberg.org/2009/agents/38589
+description: ''
+gutenberg_issued: '2011-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37004'
+  lccn: '21014062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peterloo Massacre, Manchester, England, 1819'
+- !lcsh 'Manchester (England) -- History'
+- !lcc 'DA'
+title: "Three Accounts of Peterloo by Eyewitnesses\r\nBishop Stanley, Lord Hylton,\
+  \ John Benjamin Smith; with Bishop Stanley's Evidence at the Trial"
+url: http://www.gutenberg.org/ebooks/37004
